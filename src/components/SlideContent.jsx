@@ -29,7 +29,7 @@ const SlideContent = ({ setShow360 }) => {
         <SwiperSlide>
           <div className="relative text-center">
             <img
-              src="/src/assets/carview/car1.avif"
+              src="/carview/car1.avif"
               alt="Car Preview"
               className="w-full rounded-lg shadow-lg"
             />
@@ -42,32 +42,32 @@ const SlideContent = ({ setShow360 }) => {
           </div>
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-200">
-          <img src="/src/assets/carview/car5.avif" alt="" />
+          <img src="/carview/car5.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-200">
-          <img src="/src/assets/carview/car10.avif" alt="" />
+          <img src="/carview/car10.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-200">
-          <img src="/src/assets/carview/car15.avif" alt="" />
+          <img src="/carview/car15.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-300">
-          <img src="src/assets/carview/car20.avif" alt="" />
+          <img src="/carview/car20.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-200">
-          <img src="/src/assets/carview/car25.avif" alt="" />
+          <img src="/carview/car25.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-400">
-          <img src="src/assets/carview/car30.avif" alt="" />
+          <img src="/carview/car30.avif" alt="" />
         </SwiperSlide>
 
         <SwiperSlide className="flex justify-center items-center bg-gray-500">
-          <img src="src/assets/carview/car35.avif" alt="" />
+          <img src="/carview/car35.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-600">
-          <img src="src/assets/carview/car40.avif" alt="" />
+          <img src="/carview/car40.avif" alt="" />
         </SwiperSlide>
         <SwiperSlide className="flex justify-center items-center bg-gray-200">
-          <img src="/src/assets/carview/car42.avif" alt="" />
+          <img src="/carview/car42.avif" alt="" />
         </SwiperSlide>
       </Swiper>
 
@@ -82,34 +82,34 @@ const SlideContent = ({ setShow360 }) => {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="/src/assets/carview/car1.avif" />
+          <img src="/carview/car1.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car5.avif" />
+          <img src="/carview/car5.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car10.avif" />
+          <img src="/carview/car10.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car15.avif" />
+          <img src="/carview/car15.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car20.avif" />
+          <img src="/carview/car20.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car25.avif" />
+          <img src="/carview/car25.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car30.avif" />
+          <img src="/carview/car30.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car35.avif" />
+          <img src="/carview/car35.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car30.avif" />
+          <img src="/carview/car30.avif" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="/src/assets/carview/car42.avif" />
+          <img src="/carview/car42.avif" />
         </SwiperSlide>
       </Swiper>
     </>

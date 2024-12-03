@@ -14,7 +14,7 @@ const Three360View = ({ setShow360 }) => {
         <div>
           <ThreeSixty
             amount={46}
-            imagePath="/src/assets/carview"
+            imagePath="/carview"
             fileName="car{index}.avif"
           />
         </div>
